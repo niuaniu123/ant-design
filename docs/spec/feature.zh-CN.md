@@ -1,9 +1,9 @@
 ---
 order: 1
-title: 基本理念
+title: 序言
 ---
-
-与众不同的是，Ant Design 不但追求『用户』的使用体验，还追求『设计者』和『开发者』的使用体验，践行『以人为本』的设计理念。
+ 
+ 修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改修改
 
 <div style="margin-left:-40px;margin-right:-40px;overflow:hidden;margin-top:30px;">
   <div class="ant-col-8 features">
